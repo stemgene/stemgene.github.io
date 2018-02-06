@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "JavaScript 语言精粹笔记3-方法、毒瘤等"
+title:  "（转载）JavaScript 语言精粹笔记3-方法、毒瘤等"
 categories: JavaScript
 tags:  函数 JavaScript
 ---
