@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "前端的一些资料和工具"
+title:  "（转载）前端的一些资料和工具"
 date:   2015-05-18 14:06:05
 categories: Tools
 tags: tools CSS reveal 配色
