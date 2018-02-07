@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Python语言及其应用08"
+date:   2018-02-02 
+categories: Python
+tags: Python Introducing-Python Data Write Read Open
+---
+
+* content
+{:toc}
 
 ## 文件输入/输出
 
