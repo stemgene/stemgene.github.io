@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python的网络应用"
+title:  "Introducing Python About Web"
 date:   2018-01-31
 categories: Python
 tags: Python Web JSON Scrap API
