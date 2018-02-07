@@ -16,5 +16,5 @@ GitHub Pages 可以为你或者你的项目提供介绍网页，它是由 GitHub
 [利用 GitHub Pages 快速搭建个人博客](https://www.jianshu.com/p/e68fba58f75c)
 
 
-![markdown](assets/images/markdown-cheatsheet-online1.jpg)
+![markdown](_drafts/markdown-cheatsheet-online1.jpg)
 
