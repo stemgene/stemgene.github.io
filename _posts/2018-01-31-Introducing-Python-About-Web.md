@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "Python的网络应用"
+date:   2018-01-31
+categories: Python
+tags: Python Web JSON Scrap API
+---
+
+* content
+{:toc}
+
 There are three important concepts:  
 * HTTP  
 * HTML  
