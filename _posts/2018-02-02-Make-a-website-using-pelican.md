@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "用Pelican在GitHub Pages上创建博客"
+date:   2018-02-02 
+categories: GitHub
+tags: GitHub-Pages Pelican Blog Git 同步
+---
+
+* content
+{:toc}
+
 用了这个blog几天之后，发现Jekyll很难用Jupyter Notebook的文件来生成post，而且也想增加标签和目录等插件。于是想创建一个以Pelican为基础的GitHub网站，以便导入ipynb格式的文档。花了一天的时间研读了[这篇介绍](http://blog.csdn.net/kzelc2tgrp/article/details/57078397)，写的很详细，虽然在操作过程中有一些出入，但通过一点点排查，最后全部跑通了。但并没有生成网页，姑且不管最后的情况，先把过程记录下来，尤其是自己排查解决问题的过程，尤其重要，供以后参考。
 
 Pelican是用Python写的一个静态网站生成器，它能够将Jupyter notebook文件转换成HTML博客文章。Pelican也十分容易部署到GitHub Pages, 其他人可以在那里阅读我们的文章。
@@ -253,7 +264,7 @@ git log --graph --pretty=oneline --abbrev-commit
 
 于是终于成功了，在GitHub上查看无论是master还是dev都是相同的内容，只不过由于force之后，建站最初master下的readme文件被删除了。
 
-然并卵，我的网站始终是404状态……
+因为GitHub Pages只认username/username.github.io作为主页，其他的可以在主页下生成project页面。
 
 
 
