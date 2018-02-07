@@ -206,7 +206,7 @@ GitHub Page将会显示推送到仓库username.github.io的所有HTML文件，�
 
 ## 七、提交你的文件
 
-如果你想要GitHub pages这个仓库保存实际的notebook和一些其他文件，你可以使用git分支。本节会用到许多git命令，可以参考[常用Git命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)、[廖雪峰官网](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)、[Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)和[在GitHub上管理项目](https://www.cnblogs.com/mengdd/p/3447464.html)
+如果你想要GitHub pages这个仓库保存实际的notebook和一些其他文件，你可以使用git分支。本节会用到许多git命令，可以参考[常用Git命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)、[廖雪峰官网](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)、[Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)、[Git工具-子模块](https://git-scm.com/book/zh/v1/Git-%E5%B7%A5%E5%85%B7-%E5%AD%90%E6%A8%A1%E5%9D%97)和[在GitHub上管理项目](https://www.cnblogs.com/mengdd/p/3447464.html)
 
 1. 运行git checkout dev切换到一个叫做dev的分支。我们不能使用master分支来保存notebook, 因为这个分支为GitHub pages所用。
 
