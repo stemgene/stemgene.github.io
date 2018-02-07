@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "About Prime Numbers"
+categories: Mathematics
+tags:  Prime-Number Eratosthenes
+author: STEM gene
+---
+
 > Each new prime is an extension of the bounds of human mathematical knowledge
 
 Yesterday I read a news about scientists found out the largest prime number `known`. It starts with a 4, 'continues on for' 23 million digits, then ends with a 1.
