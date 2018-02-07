@@ -1,8 +1,8 @@
 #### [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-![Markdown cheatsheet 01](/assets/images/markdown-cheatsheet-online1.jpg "Markdown chestsheet")
+![Markdown cheatsheet 01](/_drafts/markdown-cheatsheet-online1.jpg "Markdown chestsheet")
 
-![Markdown cheatsheet 02](/assets/images/markdown-cheatsheet-online2.jpg)
+![Markdown cheatsheet 02](/_drafts/markdown-cheatsheet-online2.jpg)
 
 ---
 
