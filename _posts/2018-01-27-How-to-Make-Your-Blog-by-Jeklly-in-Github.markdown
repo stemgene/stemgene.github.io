@@ -15,5 +15,8 @@ GitHub Pages 可以为你或者你的项目提供介绍网页，它是由 GitHub
 [用Jekyll搭建的Github Pages个人博客](http://louisly.com/2016/04/used-jekyll-to-create-my-github-blog/)    
 [利用 GitHub Pages 快速搭建个人博客](https://www.jianshu.com/p/e68fba58f75c)
 
+怎样将ipynb文件转为md文件：
 
+[Including Jupyter Notebooks in Jekyll blog posts]（https://briancaffey.github.io/2016/03/14/ipynb-with-jekyll.html）  
+[Using IPython Notebook to Write Jekyll Blog Posts](https://adamj.eu/tech/2014/09/21/using-ipython-notebook-to-write-jekyll-blog-posts/)
 
