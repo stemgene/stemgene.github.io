@@ -10,7 +10,7 @@ tags: English-Language
 --------|--------------|--------------|--------------------------------|--------
 早上好   | Good morning | bom Dia      |
 你好     |   Hello      |              | ,sala'malaico                 | Namasdai
-再见     |  Good Bye    |             | ,Huda'hafize(Bye,God bless you)|
+再见     |  Good Bye    |   tchau      | ,Huda'hafize(Bye,God bless you)|
 1       |      One     |             |  Wahid                         |          
 2      |      Two     |             |  athnan                         |        
 3      |      Three     |             |  thlatha                         |        
