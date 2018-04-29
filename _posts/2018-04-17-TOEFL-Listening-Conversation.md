@@ -27,3 +27,23 @@ L: May be. But you already **narrow your search down** to article on dream inter
 S: Right, abstacts! They'll definately **make the project more doable**. I guess I should try out electronic search while I'm still here then, you know, just in case.   
 L: That computer is for you over there. I'll be here till five this afternoon.
 S: Thanks, I feel a lot better about this assignment now.
+
+
+*** TPO 1# Classroom observation and feedback
+
+P: Hi, Mathew, I'm glad you can come in today. You've been observing Mr. Grable's 3rd grade class for **your approaches to** education paper, right?  
+S: Yes! I go over the Jonhson elementary school, you know, to watch Mr. Grable teach the children in class. **It's been amazing**, I mean, I'm just learning so much from watching him. I'm so glad the classroom observations are a requirement for the education program. I mean **it's like the best thing ever to propare you to be a good teacher**.  
+P: Well I'm glad to see you **feel that way**, Mathew. You know that's the goal. So I've been reading your observation notes, so I'm quite interested in what's going on in particular what's the astronomy unit he's been teaching.  
+S: The astronomy unit?  
+P: It seems Mr. G has mastered **interdisciplinary approach** to teaching, the way we've been talking about in class.  
+S: So like when he was teaching astronomy, he didn't just teach them the names of planets, he **use it as a way to** teach mythology.  
+P: Really? So how did he do that?  
+S: Well, some of the students could already name the planets, but they didn't know that the names had any meaning, the stories  behind them. Introducing Greek and Roman mythology as a way of explaining. Like, you know how like Jupiter is the biggest planet, right? And how the Jupiter was named king of the Gods in Roman mythology, right? So since Jupiter, the planet, is the largest planet of our solar system, it's like the king of the planets, like Jupiter was the king of all the gods.  
+P: That's a great example.  
+S: Each student chose a planet, and then did research on it to write a report and make a representation. They went to the library to do the research, and then make presentations about the planet they chose.  
+P: So, in one science unit, in which the focus was astronomy, the students also learn about literature of Greek and Roman mathology used researche skills in the library, wrote a report and practicsed their oral presentation skills.  
+S: Exactly, he used this one topic to teach 3rd graders all that stuff how to use books in the library to write a reports and even how to speak in public. Plus they had a great time doing it.  
+P: You know Mathew, this is just what we've been talking about in our class. I'm sure everyone could learn something from your experience. I'd love for you to talk about this astronomy unit in class of Wednesday.  
+S: I don't think I'll have any time to write my paper **by then**.  
+P: You won't need to write anything new **just yet**. For Wednesday, use your class observation notes and explain things we've discussed today.  
+S: OK, that's sounds alright.
